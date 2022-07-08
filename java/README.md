@@ -7,9 +7,8 @@ This sample project covers:
 3. Setting authentication context for the SDK
 4. Applying common image manipulations
 5. Adding overlays to images
-6. Lazy loading images
-7. Blurred image placeholder
-8. Client-side file uploading
+6. Blurred image placeholder
+7. Client-side file uploading
 
 # How to run locally
 
@@ -107,8 +106,8 @@ class App {
 All these parameters are required. API private key can also be obtained from the [developer](https://imagekit.io/dashboard#developers) section in your ImageKit dashboard.
 
 # Useful links
-* React quickstart guide - https://docs.imagekit.io/getting-started/quickstart-guides/java
-* React SDK and documentation - https://github.com/imagekit-developer/imagekit-java/
+* Java quickstart guide - https://docs.imagekit.io/getting-started/quickstart-guides/java
+* Java SDK and documentation - https://github.com/imagekit-developer/imagekit-java/
 
 # Report a bug
 If something doesn't work as expected, report a bug at support@imagekit.io.
